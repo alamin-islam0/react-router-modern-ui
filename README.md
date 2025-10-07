@@ -81,11 +81,6 @@ src/
 - Posts: `https://jsonplaceholder.typicode.com/posts`
 - Single Post: `https://jsonplaceholder.typicode.com/posts/:id`
 
-## ✨ Notes
-
-- Portfolio and Users have been fully removed by design.
-- Blog archive lists all posts; categories and pagination were intentionally removed for clarity.
-
 ---
 
 Made with ❤️ using React, React Router, Tailwind, and DaisyUI.
