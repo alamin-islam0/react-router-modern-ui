@@ -1,0 +1,31 @@
+.postCard {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 30px;
+    column-gap: 30px;
+    padding: 0 40px 0 40px;
+}
+
+.postCardStyle {
+    padding: 40px 30px 40px 30px;
+    background: rebeccapurple;
+    border-radius: 12px;
+}
+
+.postTitle {
+    color: white;
+}
+
+.PostDescription{
+    color: white;
+}
+
+.postBtn {
+    background-color: greenyellow;
+    color: black;
+    margin-top: 20px;
+    padding: 12px 30px 12px 30px;
+    border-radius: 12px;
+}
